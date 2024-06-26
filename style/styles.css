@@ -49,7 +49,7 @@ h1 h2 h3 h4 {
     justify-content: end;
     height: 466px;
     width: 329.86px; 
-    background: url("img/svg_content.svg"); 
+    background: url("../img/svg_content.svg"); 
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center;   
